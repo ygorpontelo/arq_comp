@@ -1,5 +1,3 @@
-# Computer Architecture
-Repo for the discipline of computer architecture
 # Disciplina SCE541 - Arquitetura de Computadore
 
 
@@ -39,6 +37,9 @@ Duas abordagens:
     * A predição é atualizada quando o resultado do condicional é resolvido
       
 
+## Video Apresentação
+
+* Link da apresentação no youtube: https://www.youtube.com/watch?v=TxoDH6ibqf8&ab_channel=YgorPontelo
 
   
  
