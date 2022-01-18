@@ -1,4 +1,4 @@
-# Disciplina SCE541 - Arquitetura de Computadore
+# Disciplina SCE541 - Arquitetura de Computadores
 
 
 Nome: Altair Fernando Pereira Junior            Nº USP: 9391831
